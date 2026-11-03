@@ -1,0 +1,6 @@
+streamlit>=1.50,<2
+SQLAlchemy>=2.0,<2.2
+requests>=2.31
+python-dotenv>=1.0
+# Production database driver (enable when you move to Postgres):
+# psycopg[binary]>=3.1
